@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+#loggin-box{
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;	
+}
+
+#profile-img{
+	width: 100%;
+}
+
+#edit-profile-icon{
+	font-size:1.2em;
+}
+
+#profile-container{
+	padding: 20px;
+}
+
+#background{
+	background-color: whitesmoke;
+	heigth: 100%;
+}
+
+#content{
+	background-color:white;
+	border-style: solid;
+	border-width:1px;
+}
+
+#alt-icons td img{
+	width:20px;
+	heigth:20px;
+}
+
+.condition-icon{
+	width:20px;
+	heigth:20px;
+	margin: 5px;
+}
+
+.condition-icon img{
+	width:100%;
+}
+
+#alt-icons{
+	top:5em;
+}
