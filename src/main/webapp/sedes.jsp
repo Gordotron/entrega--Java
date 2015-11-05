@@ -8,8 +8,8 @@
 				<jsp:include page="header.jsp" />
 			</div>
 
-			<jsp:include page="perfil.jsp" />
-			
+			<jsp:include page="sedes-listado.jsp" />
+
 			<div class="row">
 				<jsp:include page="footer.jsp" />
 			</div>
